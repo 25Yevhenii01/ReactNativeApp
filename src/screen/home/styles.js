@@ -22,9 +22,9 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
     },
     imageContainer: {
-        flex: 1, // Додаємо flex: 1, щоб контейнер розтягувався на всю доступну ширину
-        alignItems: 'center', // Вирівнюємо картинку по центру горизонтально
-        justifyContent: 'center', // Вирівнюємо картинку по центру вертикально
+        flex: 1,
+        alignItems: 'center',
+        justifyContent: 'center',
         position: 'relative',
     },
     image: {
